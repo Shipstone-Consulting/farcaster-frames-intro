@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta property="fc:frame:image" content="https://upload.wikimedia.org/wikipedia/commons/d/d4/Seven%2C_Picard_And_Riker_Are_The_Ultimate_Trio_-_Star_Trek-_Picard_S3_-_Prime_Video.webm" />
+    <meta property="fc:frame:image" content="https://shipstone.com/assets/images/image01.jpg?v=649a9b37" />
     <meta property="fc:frame:button:1" content="Link Example" />
     <meta property="fc:frame:button:1:action" content="link" />
     <meta property="fc:frame:button:1:target" content="https://shipstone.com" />
