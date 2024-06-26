@@ -1,4 +1,4 @@
-Frames are an innovative way to add new functionality to Farcaster's social media tools.
+Frames are an innovative way to add functionality to Farcaster casts.
 
 Check out the frame specification here: https://docs.farcaster.xyz/reference/frames/spec
 
