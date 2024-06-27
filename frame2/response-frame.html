@@ -10,8 +10,17 @@
     <meta property="fc:frame:button:1:target" content="https://github.com/shipstone-labs/farcaster-frames-intro" />
     <meta property="fc:frame:button:2" content="Tell me how I'm feeling!" />
     <meta property="fc:frame:button:2:action" content="post" />
-    <meta property="fc:frame:button:2:target" content="https://github.com/shipstone-labs/farcaster-frames-intro" />
+    <meta property="fc:frame:button:2:target" content="image_display" />
     
     <title>Farcaster Frame - Response Frame Example</title>
   </head>
+  <body>
+    <script>
+      window.addEventListener('message', function(event) {
+        if (event.data && event.data.action === 'image_display') {
+          document.body.innerHTML = '<img src="image.png" alt="Image" />';
+        }
+      });
+    </script>
+  </body>
 </html>
