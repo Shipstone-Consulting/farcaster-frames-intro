@@ -58,7 +58,7 @@ export default {
       content="https://github.com/shipstone-labs/farcaster-frames-intro"
     />
     <meta property="fc:frame:button:2" content="Tell me how I'm feeling!" />
-    <meta property="fc:frame:button:2:action" content="post_redirect" />
+    <meta property="fc:frame:button:2:action" content="post" />
 
     <title>Farcaster Frame - Response Frame Example</title>
   </head>
