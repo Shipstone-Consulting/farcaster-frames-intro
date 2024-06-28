@@ -1,0 +1,7 @@
+name = "frame-example"
+compatibility_date = "2024-06-06"
+compatibility_flags = [ "nodejs_compat" ]
+main = "./src/worker.js"
+
+[site]
+bucket = './public'
